@@ -27,3 +27,8 @@ You can see the API methods in the OpenApi specification [on this page](https://
 ## Server Structure
 
 ## Development Plans
+№ | Name | Date | Status 
+--- | --- | ---
+1 | *Init project* | `06/12/2022` | ✅
+2 |
+3 |
