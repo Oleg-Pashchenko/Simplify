@@ -30,14 +30,15 @@ You can see the API methods in the OpenApi specification [on this page](https://
 
 № | Name | Date | Status 
 -- | --- | --- | ---
-1 | *Init project* | `06/12/2022` |  [✅](https://github.com/Oleg-Pashchenko/Simplify/tree/09962438f22306dcc59ab2d1806f0c69a037c9f3)
-2 | *Write swagger.yaml* | `07/12/2022` | ❌
-3 | *Write API handlers and setup CI/CD posting to the remote server after push* | `08/12/2022` | ❌ [ℹ️]()
-4 | *Realise database usage* | `09/12/2022` | ❌ [ℹ️]()
-5 | *Finish server part of app* | `10/12/2022` | ❌ [ℹ️]()
-6 | *Write tests for the api and setup autotesting after push* | `11/12/2022` | ❌ [ℹ️]()
-7 | *Figure out what to do next* | `12/12/2022` | ❌ [ℹ️]()
+1 | *Init project* | `06/12/2022` |  [✅](https://github.com/Oleg-Pashchenko/Simplify/tree/b15dc884b26babb3dde31081dbb2e60dac98233e)
+2 | *Write swagger.yaml* | `07/12/2022` | [❌]()
+3 | *Write API handlers and setup CI/CD posting to the remote server after push* | `08/12/2022` | [❌]()
+4 | *Realise database usage* | `09/12/2022` | [❌]()
+5 | *Finish server part of app* | `10/12/2022` | [❌]()
+6 | *Write tests for the api and setup autotesting after push* | `11/12/2022` | [❌]()
+7 | *Figure out what to do next* | `12/12/2022` | [❌]()
 
+> P.S: you can click on the emoji to view the status of the code in each step.
 
 
 
