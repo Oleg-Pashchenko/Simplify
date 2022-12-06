@@ -9,7 +9,7 @@
 - [Api Methods](#Api-Methods)
 - [Client Structure](#Client-Structure)
 - [Server Structure](#Server-Structure)
-- [Development Plans](#Development-Plans) `In process!`
+- [Development Plans](#Development-Plans) `[In process!]`
 
 ## Into & Installation
 The app is designed specifically for friends. Enjoy shared memories, control your finances, and communicate via messenger.
