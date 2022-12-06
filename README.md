@@ -12,9 +12,10 @@
 - [Development Plans](#Development-Plans)
 
 ## Into & Installation
-> The app is designed specifically for friends. Enjoy shared memories, control your finances, and communicate via messenger.
+> ###The app is designed specifically for friends. Enjoy shared memories, control your finances, and communicate via messenger.
 
 AppStore: [Скачать](https://www.google.com)
+
 Google Play: [Скачать](https://www.google.com)
 ## Usage
 
