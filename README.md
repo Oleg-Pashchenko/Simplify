@@ -31,4 +31,14 @@ You can see the API methods in the OpenApi specification [on this page](https://
 № | Name | Date | Status 
 -- | ---------- | --- | --
 1 | *Init project* | `06/12/2022` |  ✅
+2 | *Write swagger.yaml* | `07/12/2022` | ❌
+3 | *Write API handlers* | `08/12/2022` | ❌ 
+4 | *Realise database usage* | `09/12/2022` | ❌ 
+5 | *Finish server part of app* | `10/12/2022` | ❌ 
+6 | *Write tests for the api* | `11/12/2022` | ❌
+7 | *Figure out what to do next* | `12/12/2022` | ❌
+
+
+
+
 
