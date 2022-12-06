@@ -28,6 +28,6 @@ You can see the API methods in the OpenApi specification [on this page](https://
 
 ## Development Plans
 № | Name | Date | Status 
--- | --- | --- | --
+-- | ---------- | --- | --
 1 | *Init project* | `06/12/2022` |  ✅
 
