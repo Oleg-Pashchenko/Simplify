@@ -20,7 +20,7 @@ Google Play: [Скачать](https://www.google.com)
 ## Usage
 
 ## Api Methods
-You can see the API methods in the OpenApi specification [on this page](https://oleg-pashchenko.github.io/Simplify/).
+You can see the API methods in the OpenApi specification [on this page](`https://oleg-pashchenko.github.io/Simplify/`).
 
 ## Client Structure
 
