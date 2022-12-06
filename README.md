@@ -32,10 +32,10 @@ You can see the API methods in the OpenApi specification [on this page](https://
 -- | ---------- | --- | --
 1 | *Init project* | `06/12/2022` |  ✅ [ℹ️](https://github.com/Oleg-Pashchenko/Simplify/commit/c2e3f0c1a09f7d16b5aaa7c0ab896aa9c51c2c5f)
 2 | *Write swagger.yaml* | `07/12/2022` | ❌ [ℹ️]()
-3 | *Write API handlers* | `08/12/2022` | ❌ [ℹ️]()
+3 | *Write API handlers and setup CI/CD posting to the remote server after push* | `08/12/2022` | ❌ [ℹ️]()
 4 | *Realise database usage* | `09/12/2022` | ❌ [ℹ️]()
 5 | *Finish server part of app* | `10/12/2022` | ❌ [ℹ️]()
-6 | *Write tests for the api* | `11/12/2022` | ❌ [ℹ️]()
+6 | *Write tests for the api and setup autotesting after push* | `11/12/2022` | ❌ [ℹ️]()
 7 | *Figure out what to do next* | `12/12/2022` | ❌ [ℹ️]()
 
 
