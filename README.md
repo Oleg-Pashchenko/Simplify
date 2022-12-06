@@ -8,9 +8,9 @@
 - [Install](#install)
 - [Usage](#usage)
 - [Api Methods](#Api-Methods)
-- [Client structure](#Client-structure)
-- [Server structure](#Server-structure)
-- [Development plans](#Development-plans)
+- [Client Structure](#Client-Structure)
+- [Server Structure](#Server-Structure)
+- [Development Plans](#Development-Plans)
 
 ## Into
 
@@ -20,8 +20,8 @@
 
 ## Api Methods
 
-## Client structure
+## Client Structure
 
-## Server structure
+## Server Structure
 
-## Development plans
+## Development Plans
