@@ -29,8 +29,8 @@ You can see the API methods in the OpenApi specification [on this page](https://
 ## Development Plans
 
 № | Name | Date | Status 
--- | ---------- | --- | --
-1 | *Init project* | `06/12/2022` |  ✅ [ℹ️](https://github.com/Oleg-Pashchenko/Simplify/commit/c2e3f0c1a09f7d16b5aaa7c0ab896aa9c51c2c5f)
+-- | --- | --- | ---
+1 | *Init project* | `06/12/2022` |  ✅ [ℹ️](https://github.com/Oleg-Pashchenko/Simplify/tree/09962438f22306dcc59ab2d1806f0c69a037c9f3)
 2 | *Write swagger.yaml* | `07/12/2022` | ❌ [ℹ️]()
 3 | *Write API handlers and setup CI/CD posting to the remote server after push* | `08/12/2022` | ❌ [ℹ️]()
 4 | *Realise database usage* | `09/12/2022` | ❌ [ℹ️]()
