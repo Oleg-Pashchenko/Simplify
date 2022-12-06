@@ -24,10 +24,12 @@ You can see the API methods in the OpenApi specification [on this page](https://
 
 ## Client Structure
 🌐 Language: [Dart](https://dart.dev)
+
 🚀 Dependencies: [Flutter](https://flutter.dev)
 
 ## Server Structure
 🌐 Language: [Scala](https://www.scala-lang.org)
+
 🚀 Dependencies: 
 
 ## Development Plans
