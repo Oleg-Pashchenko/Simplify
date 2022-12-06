@@ -30,7 +30,7 @@ You can see the API methods in the OpenApi specification [on this page](https://
 
 № | Name | Date | Status 
 -- | ---------- | --- | --
-1 | *Init project* | `06/12/2022` |  ✅
+1 | *Init project* | `06/12/2022` |  [✅](https://github.com/Oleg-Pashchenko/Simplify/commit/c2e3f0c1a09f7d16b5aaa7c0ab896aa9c51c2c5f)
 2 | *Write swagger.yaml* | `07/12/2022` | ❌
 3 | *Write API handlers* | `08/12/2022` | ❌ 
 4 | *Realise database usage* | `09/12/2022` | ❌ 
