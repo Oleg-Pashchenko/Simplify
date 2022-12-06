@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=./docs/UqVynxCBx7g.jpg>
+  <img src=./docs/2022-12-06 19.55.15.jpg>
 </div>
 
 # Simplify
